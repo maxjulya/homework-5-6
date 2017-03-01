@@ -1,0 +1,13 @@
+body {
+  background-color: #000;
+}
+.wrapper{
+  width: 400px;
+  height: 100px;
+  margin: 350px auto;
+  color: yellow;
+  text-align: center;
+}
+#for_count{
+  font-size: 60px;
+}
